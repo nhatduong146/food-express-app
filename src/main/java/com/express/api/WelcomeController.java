@@ -8,6 +8,6 @@ public class WelcomeController {
 
     @GetMapping("welcome")
     public String welcome() {
-        return "Food Express App Duong";
+        return "Food Express App Duong hihi";
     }
 }
